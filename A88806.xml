@@ -1,0 +1,271 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Laurentius Lutherizans. Or the protestation of George Laurence, Master of Arts, late commoner in Oxford, and late lecturer in the parish-church of George Buttolph-Lane, by Little East-cheap in London. Against certaine calumniations asperged on him by the corrupt clergie, and their lay-proselytes, for some particulars, delivered in two sermons, at Michaels Church in Corne-hill, and else-where, concerning our nationall protestation. As it was declared, by way of digression, in a third sermon at the same church, the 23th. day of Januarie, in the morning lecture, anno, 1642.</title>
+            <author>Lawrence, George, 1615-1695?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88806</idno>
+            <idno type="STC">Wing L658</idno>
+            <idno type="STC">Thomason E132_40</idno>
+            <idno type="STC">ESTC R23031</idno>
+            <idno type="EEBO-CITATION">99871895</idno>
+            <idno type="PROQUEST">99871895</idno>
+            <idno type="VID">156382</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88806)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156382)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 23:E132[40])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Laurentius Lutherizans. Or the protestation of George Laurence, Master of Arts, late commoner in Oxford, and late lecturer in the parish-church of George Buttolph-Lane, by Little East-cheap in London. Against certaine calumniations asperged on him by the corrupt clergie, and their lay-proselytes, for some particulars, delivered in two sermons, at Michaels Church in Corne-hill, and else-where, concerning our nationall protestation. As it was declared, by way of digression, in a third sermon at the same church, the 23th. day of Januarie, in the morning lecture, anno, 1642.</title>
+                  <author>Lawrence, George, 1615-1695?</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Harford, in Queenes-head Alley, Pater-noster-Row,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lawrence, George, 1615-1695?</term>
+               <term>Church of England --  Clergy --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156382:1"/>
+            <!-- PDF PAGE 72 -->
+            <pb facs="tcp:156382:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 72 -->
+            <p>
+               <hi>Laurentius Lutherizans.</hi> OR THE PROTESTATION OF GEORGE LAVRENCE, Maſter of Arts, late Commoner in <hi>Oxford,</hi> and late Lecturer in the Pariſh-Church of <hi>George Buttolph-Lane,</hi> by <hi>Little Eaſt<g ref="char:EOLhyphen"/>cheap</hi> in LONDON.</p>
+            <p>Againſt certaine Calumniations Aſperged on him by the <hi>Corrupt Clergie,</hi> and their <hi>Lay-Proſelytes,</hi> for ſome Particulars, De<g ref="char:EOLhyphen"/>livered in two Sermons, at <hi>Michaels Church</hi> in <hi>Corne-hill,</hi> and elſe-where, concerning our <hi>Nationall Proteſtation.</hi>
+            </p>
+            <p>As it was declared, by way of Digreſſion, in a Third <hi>Sermon</hi> at the ſame Church, the 23<hi rend="sup">th</hi>. Day of <hi>Januarie,</hi> in the Morning Lecture, <hi>Anno,</hi> 1642.</p>
+            <q xml:lang="grc">
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <bibl>Chryſoſt. ad Scandalizatos.</bibl>
+            </q>
+            <q>
+               <p>Innocens inter ipſa Tormenta Fruitur Securitate, &amp; cum poenam. metuat, de Innocentiâ gloriatur.</p> 
+               <bibl>Hieronymus ad Demetriadem.</bibl>
+            </q>
+            <q>
+               <p>The mouth of the Wicked, and the mouth of the Deceitfull are againſt mee: They have ſpoken againſt mee, with lying Tongues.</p>
+               <bibl>David, Pſal. 109.2.</bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>R Harford,</hi> in Queenes-head All<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>Pater-noſter-Row.</hi> 1641.</p>
+            <pb facs="tcp:156382:2"/>
+            <!-- PDF PAGE 73 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:156382:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 73 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:156382:3"/>
+            <!-- PDF PAGE 74 -->
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>I Am to certifie thee, that I was conſtrained, for the preſent, to commit this Paper to the Preſſe, for the Vindication of my ſelfe, and true Reli<g ref="char:EOLhyphen"/>gion; having not as yet (according to the De<g ref="char:EOLhyphen"/>ſires and Expectations of many Godly Divines, Worſhipfull Citizens, and Sincere Profeſſors) ful<g ref="char:EOLhyphen"/>ly Digeſted, for the Preſſe, my Sermons upon our <hi>Engliſh Proteſtation.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156382:3"/>
+            <!-- PDF PAGE 74 -->
+            <head>LAVRENTIVS LVTHERIZANS.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">M</seg>Artin Luther</hi> being infeſted with many Ad<g ref="char:EOLhyphen"/>verſaries, and amongſt the reſt, eſpecially with one <hi>Jacobus Hoſtraten,</hi> termed by him, <hi>Hae<g ref="char:EOLhyphen"/>reticorum ominium Haereticiſſimus,</hi> The moſt Hereticall of all Hereticks, who had falſely charged him with many Errours, and ſcan<g ref="char:EOLhyphen"/>dalous Accuſations, was neceſſitated to vindicate himſelf with this publike Proteſtation to be knowne of all.</p>
+            <q>
+               <floatingText>
+                  <body>
+                     <div type="Luthers_protestation">
+                        <head>Proteſtatio <hi>Lutheri </hi> Brevis, <hi>Iulii 13.</hi> Anno, <hi>1518.</hi>
+                        </head>
+                        <p n="1">I <hi>Martin Luther,</hi> Publickely Proteſt, that I have publiſhed cer<g ref="char:EOLhyphen"/>taine Propoſitions, againſt Pontificall Indulgences, although hitherto, neither this our Famous, and Re<g ref="char:EOLhyphen"/>nowned Schoole of <hi>Witenberge,</hi> neither any Civill, or Eccleſi<g ref="char:EOLhyphen"/>aſticall Power, hath as yet con<g ref="char:EOLhyphen"/>demned me: yet notwithſtanding, Some certaine men there are, as I doe heare, of a raſh and bold Inge<g ref="char:EOLhyphen"/>nie, who as if they ſaw alone, as it were into a Milſtone, preſume to pronounce me an Heretike.</p>
+                        <p xml:lang="lat" rend="small">Ego <hi>Martinus Lutherus,</hi> publice Teſta<g ref="char:EOLhyphen"/>tum volo, Propoſitiones aliquot, contra Pontificales, ut vocant, Indulgentias a me eſſe editas, etſi autem me hactenus, ne<g ref="char:EOLhyphen"/>que celeberrima haec, &amp; laudatiſsima Schola noſti a Vitebergae neque Civilis, aut Eccleſiaſtica Poteſtas condemnaverit, ſunt tamen, ut audio, quidam praecipitis, atque au facis ingenii homines, quire quaſi benè cognitâ, &amp; perſpectâ, Haereticum me pronunciare audent.</p>
+                        <p>I therefore, as oftentimes before, ſo alſo, now by the Faith of a Chri<g ref="char:EOLhyphen"/>ſtian, beſeech others, either to Indi<g ref="char:EOLhyphen"/>gitate and point out unto me a bet<g ref="char:EOLhyphen"/>ter way, if a better be divinely re<g ref="char:EOLhyphen"/>vealed unto them, or elſe to ſubmit their opinion, both to the judgement
+<pb facs="tcp:156382:4"/>
+                           <!-- PDF PAGE 75 -->
+of God, and his Church. For as I am neither ready to preferre mine owne opinion, before the judge<g ref="char:EOLhyphen"/>ment of all others, So neither am I ſo doltiſh, as to place the Word of God, either below, or behinde the Tables invented by the braines of men.</p>
+                        <p xml:lang="lat" rend="small">Ego verò ut antè ſaepe, ita nunc quoque per fidem Chriſtianam obteſtor ſingu<g ref="char:EOLhyphen"/>los, vel ut meliorem mihi monſtrent vi<g ref="char:EOLhyphen"/>am, ſi quibus haec divini<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>us eſſet reve<g ref="char:EOLhyphen"/>lata, vel certè ſuam ſententiam De<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>, &amp; Eccleſiae iudicio ſubmittunt. Non e<g ref="char:EOLhyphen"/>nim adeò temetarius ſum, ut meam ſoli<g ref="char:EOLhyphen"/>us opinionem caeteris anteferri, neque cam ſtupidu<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>etiam ut verbum Dei, fabu<g ref="char:EOLhyphen"/>lis human<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> ratione excogitatis poſtponi <gap reason="illegible" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>l<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>m. <hi>
+                              <gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>om</hi> 1. <hi>Fol,</hi> 195.</p>
+                        <p>In like manner, your Orator, who ſpeakes to you this Day, being encircled with many <hi>Adverſaries,</hi> (as <hi>David</hi> was with Bees) who have charged him with many falſe<g ref="char:EOLhyphen"/>hoods, upon the preaching of the two former Sermons in this place, touching the <hi>Nationall Proteſtation,</hi> am now enforced to be <hi>Proteſtator Lutherizans,</hi> cleering my ſelfe of thoſe aſ<g ref="char:EOLhyphen"/>ſperged imputations, in the preſence of God, his Angels, and this Congregation, by this ſhort, and ſerious Proteſtation.</p>
+                        <p n="1">1. I Proteſt againſt all Vaine-glorie. For whereas the <hi>Bi<g ref="char:EOLhyphen"/>ſhops Factions,</hi> and <hi>their adherents</hi> ſay, that in my Sermons, I looked here for applauſe from men, but I did loſe it, Let them</p>
+                        <list>
+                           <item>Firſt know, and tell it to their Fellowes, that I met with that, which the Lord knowes, I neither did gaſpe after, nor expect, you your ſelves in ſome part being Iudges.</item>
+                           <item>Secondly, That they meaſure other mens actions, by the rag<g ref="char:EOLhyphen"/>ged ſtaffe of their owne crooked Rule.</item>
+                           <item>Thirdly, That it is the conſtant toyle and labour of a ſin<g ref="char:EOLhyphen"/>cere Miniſter of Ieſus Chriſt, to ſtifle the Bubbling and Boy<g ref="char:EOLhyphen"/>ling Surges of his ſwelling heart, and with <hi>Paul</hi> alone to glo<g ref="char:EOLhyphen"/>ry in his infirmities, 2 <hi>Cor.</hi> 12.9. Leſt otherwiſe, with <hi>He<g ref="char:EOLhyphen"/>rod,</hi> taking the Glory to himſelf, and not giving it to God, with him, (according to the <hi>Syriack</hi>) become a Dunghill or a Stable for the Wormes, <hi>Acts</hi> 12.23.</item>
+                        </list>
+                        <p n="2">2. I Proteſt againſt Seditition, and Seduction. For where<g ref="char:EOLhyphen"/>as the <hi>Biſhops Faction,</hi> and <hi>Carnall Goſpellers</hi> doe ſay, That I, and others are Seditious, and Seduce the People, Let ſuch</p>
+                        <list>
+                           <item>Firſt know, That the Nature of Sedition, is the drawing of a People, out of a right path, into a wrong, from good to evil, and not from evill to good, and that the Nature of Sedition, is to ſow Tares amongſt the Wheat, and not ſowing of Wheat amongſt the Tares.</item>
+                           <item>Secondly, That the Houſe of <hi>Ahab,</hi> and <hi>Iezabel,</hi> that is,
+<pb facs="tcp:156382:4"/>
+                              <!-- PDF PAGE 75 -->the Biſhops faction, the whore of <hi>Rome,</hi> the Ieſuites and Papiſts are, and have beene the ſeditious Seducers, and Troublers of our Engliſh <hi>Iſrael:</hi> for theſe are they, who have miſguided the people, leading them blind fold to the brow of the hill, to tumble them headlong downe to Hell, and to cruſh both themſelves, and them to peeces, to all Eter<g ref="char:EOLhyphen"/>nity.</item>
+                           <item>Thirdly, that it is their Policy to call ſeditious, and Seducer; firſt, like a crafty courtizan, who will call whore firſt, that ſhe might not bee ſuſpected. Whence in the New Teſtament, the Scribes and Phariſees are obſerved to ſtigmatize, and agnominize, Chriſt and his Diſciples, with the reproachfull Tearmes of Deceivers and Seducers, while they themſelves ſeduce, and lead about ſylly creatures, creeping into their houſes, loving the uppermoſt roomes, and deſiring to bee cal<g ref="char:EOLhyphen"/>led <hi>Rabbi, Rabbi,</hi> which is as much, as to ſay, Doctor, Doctor.</item>
+                        </list>
+                        <p n="3">3. I proteſt againſt Phrenſie; for as the <hi>Corrupt Clergie,</hi> and their <hi>Lay Adherents</hi> belch out, and ſay, that ſuch as my ſelfe are of a Phrentick Spirit, and have <hi>Laeſa principia,</hi> becauſe wee dare not Symbolize with them, either in their Doctrines, or their practiſe; Let them againe.</p>
+                        <list>
+                           <item>1. Know, that <hi>Shemajah,</hi> the <hi>Nehelamite,</hi> which is as much, as <hi>Shemajah</hi> the lying Dreamer, called <hi>Ieremiah</hi> a mad man; <hi>Ier.</hi> 29.26. as being more fit for a priſon, and the ſtocks, than the Pulpit: though good <hi>Jeremiah</hi> was ap<g ref="char:EOLhyphen"/>proved to bee the conſcientious Preacher.</item>
+                           <item>2. Know, that <hi>Feſtus,</hi> though a great, yet a Carnall man with a loud voyce told <hi>Paul,</hi> that hee was beſide himſelfe, and mad, whereas indeed, hee ſpake forth the words of truth, and ſoberneſſe.</item>
+                           <item>3. Know, that they and their <hi>Adherents,</hi> are the mad fellowes, as they are <hi>Catachreſtically</hi> called the good, and <hi>Kuriologically</hi> the bad fellowes, and not they, who by them are called the Puritan-Preachers, and the Puritans, and pre<g ref="char:EOLhyphen"/>ciſer people, for if you read, <hi>Act<gap reason="illegible: missing" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>.</hi> 26.25. That <hi>Paul</hi> being converted, and out of his Naturall condition, hee doth pro<g ref="char:EOLhyphen"/>feſſe againſt the tearme of mad fellow, whereas in the 11. <hi>Verſe,</hi> when hee was in a Carnall ſtate, hee doth avouch, that hee was mad, yea exceedingly mad againſt the Saints,
+<pb facs="tcp:156382:5"/>
+                              <!-- PDF PAGE 76 -->perſecuting them even unto ſtrange Cities: And therefore, if you beleeve the Scripture, and not, as the <hi>Popiſh Church</hi> beleeves, they themſelves are mad and phrentick. Mad upon their Idols, <hi>Ier,</hi> 50.38. The Prophet is a foole, and the Spi<g ref="char:EOLhyphen"/>rituall man is mad; <hi>Hoſ.</hi> 9.7. Mad after <hi>Popiſh Biſhops,</hi> yea mad to bee <hi>Biſhops,</hi> though the <hi>Biſhops</hi> themſelves were never more mad, than in theſe times: as in their late Towring-Swelling, <gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ower-Aſpiring, Proteſtation, and therefore, if they doe not ſaile to <hi>Rome,</hi> yet they may, as in our Proverb, take ſhipping and ſaile unto <hi>Anticyras,</hi> yea further, ſo in<g ref="char:EOLhyphen"/>ſenſibly entoxicated, by a ſtrange, and an hideous <hi>Meta<g ref="char:EOLhyphen"/>morphoſis,</hi> that as Pope <hi>Sergius</hi> the ſecond, (as I remember) was called <hi>Os porci,</hi> Swines-ſnout, or Hogges-face, becauſe of his uncleaneſſe; So, the corrupt Clergies may bee called <hi>Dens Diaboli,</hi> yea <hi>Deus Caninus Diaboli,</hi> The great Dogge<g ref="char:EOLhyphen"/>tooth of the Devill; as <hi>Pariſienſis</hi> tearmes, all dogged and curriſh Perſecuters and Back-biters.</item>
+                        </list>
+                        <p>For as a mad dogge rowling himſelfe, like the <hi>Icneumon,</hi> or <hi>Mus Indicus,</hi> in a ſheet of mud, and riſing up upon his legs, ſets a black, and a dirtie patch on every poſt in the ſtreet, byting every one hee meets: So the corrupt Clergy tum<g ref="char:EOLhyphen"/>bling themſelves in the mire of rotteneſſe and ſuperſtition, faſten one beaſtly marke or other; yea many dirty ſpots where they are ſeated, ſnarling, ſhewing their teeth like ſo many mad dogges, and byting, yea tearing in peeces, were they able every one, who thwarts them in their way, and contradicts them in their unwarrantable inſolencies, and il<g ref="char:EOLhyphen"/>legall proceedings whatſoever. And here, Let not any diſ<g ref="char:EOLhyphen"/>cerning or diſcreet Reader, adjudge mee to be too immode<g ref="char:EOLhyphen"/>rate in my expreſſions, ſince the <hi>Devill, Pope, Biſhops, Cor<g ref="char:EOLhyphen"/>rupt Clergie,</hi> and <hi>their Adherents,</hi> have neither beene mode<g ref="char:EOLhyphen"/>rate in their blaſphemies,<note place="margin">Modum au<g ref="char:EOLhyphen"/>tem tenere, in co difficile eſt, quod honum eſſe credideris; Senec. Epiſt. <hi>23.</hi>
+                           </note> nor in their tyrannizing perſecu<g ref="char:EOLhyphen"/>tions, and ſince according to the Dialect even of <hi>Seneca</hi> an heathen man; In that thing, or that cauſe, which thou beleeveſt in thy conſcience, (yea undoubtedly doeſt know) to be good, it is a great difficulty, (yea a great ſinne) to uſe a moderation.</p>
+                        <p n="4">4. Laſtly, I proteſt againſt all Popery, according to our Nationall Proteſtation: For whereas ſome have bruited abroad, that I and others have extended our diſcourſes, fur<g ref="char:EOLhyphen"/>ther
+<pb facs="tcp:156382:5"/>
+                           <!-- PDF PAGE 76 -->than the Determinaton of the covenant admits, Let them.</p>
+                        <list>
+                           <item>1. Know, that the Tearme, <hi>All popery,</hi> hath a large Peri<g ref="char:EOLhyphen"/>phery and circumference, which as it doth reach out to that Popery, which was diſcovered at the time when the Pro<g ref="char:EOLhyphen"/>teſtation was compoſed, ſo alſo, (yet with ſubmiſſion bee it ſpoken) may it bee extended to all thoſe ſeverall graines, which lay under the Turffe, and ſhould hereafter bud forth, and appeare to bee ſuperſtition, and Idolatrie in after times.</item>
+                           <item>2. Know, that I, and my fellow-brethren are of the re<g ref="char:EOLhyphen"/>ſolution of <hi>Martin Luther,</hi> who although like him, may bee t<gap reason="illegible: missing" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>armed Hereticks, or Schiſmaticks, becauſe wee ſpeake a<g ref="char:EOLhyphen"/>gainſt the Pope and Popiſh Hierarchie, yet by the credi<g ref="char:EOLhyphen"/>table faith of Chriſtians, beſeech others to indigitate, and point out unto us a better way, if a better bee Divinely re<g ref="char:EOLhyphen"/>vealed unto them, or elſe to ſubmit their opinion, both to the judgement of God, and the reformed Churches, for as wee are neither ready to preferre our owne opinions, before the judgement of all others, ſo neither are wee ſo doltiſh, as to place the word of God, either below, or behind the fables invented by the braines of Brainſick, and cloud-pated <hi>Lycophrons,</hi> and the conceptions, or rather deceptions of Superſtitious <hi>Temporizers,</hi>
+                           </item>
+                           <item>3. Know, that whatſoever I have delivered in the two former Sermons in this place, or what is, or ſhall bee further delivered in this third Sermon, or whatſoever I have delive<g ref="char:EOLhyphen"/>red elſewhere, and eſpecially in thoſe Sermons concerning the ſolemnization of our great deliverance from the Gun<g ref="char:EOLhyphen"/>powder Traytours, and the Papiſts Conſpiracy,<note place="margin">Vpon the words of <hi>E<g ref="char:EOLhyphen"/>zekiel c.</hi> 24. <hi>v.</hi> 2. in the laſt <hi>Novem<g ref="char:EOLhyphen"/>ber.</hi>
+                              </note> in comparing <hi>N<gap reason="illegible: missing" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>buchadnezzar</hi> the King of <hi>Babylon,</hi> and the whore of <hi>Babylon</hi> together, who did ſet themſelves againſt <hi>Jeruſalem,</hi> (for which I was unſetled from my place of preaching, as <hi>Iohn Hus</hi> was inhibited, and forbad the Pulpit by the Pope, when he began to preach the Doctrine of <hi>Wickliffe</hi> againſt the Pope, and his Attendants;) I ſhall God willing,<note place="margin">Martyrolog.</note> and God aſſiſting be ready like <hi>Iohn Hus,</hi> to ſeale the Doctrine, and e<g ref="char:EOLhyphen"/>very branch of that Doctrine which I have publiſhed elſe<g ref="char:EOLhyphen"/>where or, in this place, with the loſſe of my deareſt bloud, comforting my ſelfe with the Cordiall of an Ancient father ſaying:</item>
+                        </list>
+                        <p>
+                           <pb facs="tcp:156382:6"/>
+                           <!-- PDF PAGE 77 -->
+                           <note place="margin">Gaude, O In<g ref="char:EOLhyphen"/>nocentia, &amp; exulta, Gaude inquam, quia ubique illaeſa es, ubique ſe<g ref="char:EOLhyphen"/>cura: Si tenta<g ref="char:EOLhyphen"/>
+                              <gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>is, proficis: Si humiliaris, eri<g ref="char:EOLhyphen"/>geris: Si pug<g ref="char:EOLhyphen"/>nas, vincis: Si occideris, cor<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>
+                              <g ref="char:EOLhyphen"/>naris. Con<g ref="char:EOLhyphen"/>ſtantinopoli<g ref="char:EOLhyphen"/>tanus.</note>Bee glad O Innocence, and rejoyce: Be glad I ſay, for no where art thou hurt, and every where thou art ſecure. If thou art tempted, thou doſt profit, if thou art humbled, thou ſhalt be exalted, if thou fighteſt, thou doſt overcome, and if thou art killed, thou maiſt loſe thy head, but thou ſhalt not loſe thy Crowne.</p>
+                        <p>And thus being neceſſitated hereunto, have I like <hi>Martin Luther</hi> vindicated the truth, My ſelfe, and my Fellow-labou<g ref="char:EOLhyphen"/>rers by this Proteſtation: and have read it to you diſtinctly, that you might avoid miſtakes, and that the corrupt Clergy, and their Lay Adherents, might not ſay with any juſt ground againſt mee, as <hi>Eraſmus</hi> of <hi>Hierom</hi> when hee writ againſt <hi>Vi<g ref="char:EOLhyphen"/>gilantius, Conviciis debacchatur Hieronymus,</hi> what I did, I did in hot bloud,<note place="margin">In Argumen<g ref="char:EOLhyphen"/>to Epiſtolae adverſus Vi<g ref="char:EOLhyphen"/>gilantium.</note> and inſteed, of a vindicating Proteſtation, I brought a vicious, and convicious debacchation.</p>
+                        <p>To conclude with an Hiſtory, ſuiting with our purpoſe, it is reported of <hi>Emme,</hi> the mother of <hi>Edward</hi> the <hi>Confeſſor,</hi> who being falſly accuſed, was conſtrained to goe bare-footed for her ſelfe 4. ſteps upon 4. ſharp plough-ſhares, burning hot from the ſcalding fire, and having paſt them over without any hurt, was adjudged innocent.</p>
+                        <p>In like manner, being maliciouſly oppugned, have I beene inforced to run over 4. Particulars, as 4. burning plough<g ref="char:EOLhyphen"/>ſhares, w<hi rend="sup">ch</hi> were laid not only to ſcortch &amp; ſindge my repu<g ref="char:EOLhyphen"/>tation, but alſo to burne up like ſo much ſtubble, the very cauſe of God, and his Goſpell: &amp; am now confident, that, that God, whoſe cauſe I agitate, and his deſpiſed people in this congre<g ref="char:EOLhyphen"/>gation,<note place="margin">
+                              <gap reason="foreign">
+                                 <desc>〈 in non-Latin alphabet 〉</desc>
+                              </gap>. Septuag. <gap reason="foreign">
+                                 <desc>〈 in non-Latin alphabet 〉</desc>
+                              </gap>. Homer. Od. L. <hi>17.</hi>
+                           </note> (though the Prelaticall faction, and their Lay-Pro<g ref="char:EOLhyphen"/>ſelites, may, or doe gather into a cloud and thicken into a bluſtering ſtorme) will acquit mee as guiltleſſe of all unjuſt, black, and opprobrious imputations.</p>
+                        <p>For I know with <hi>David, Pſalme</hi> 140.13. That the Lord will maintaine the cauſe of the afflicted, and the right of him, that is diſtreſſed, and <hi>Pſalme</hi> 18.47.48. That it is God who giveth Avengements for mee, and delivereth mee from all mine Enemies.</p>
+                        <p>The Lord in mercy ſanctifie to mee the Calumniation, and thoſe, whom it doth concerne, the Proteſtation.</p>
+                        <trailer>FINIS.</trailer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <pb facs="tcp:156382:6"/>
+            <!-- PDF PAGE 77 -->
+         </div>
+      </body>
+   </text>
+</TEI>
